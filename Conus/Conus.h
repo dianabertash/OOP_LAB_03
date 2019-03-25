@@ -17,6 +17,6 @@ public:
 	void SetHeight(double a);
 	void SetRadius(double b);
 
-	double Ñapacity();
+	double Capacity();
 	double Area();
 };

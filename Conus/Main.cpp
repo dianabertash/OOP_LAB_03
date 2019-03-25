@@ -11,7 +11,7 @@ int main()
 	cout << "GetHeight(): " << conus.GetHeight() << endl;
 	cout << "GetRadius(): " << conus.GetRadius() << endl;
 
-	cout << "Capacity(): " << conus.Ñapacity() << endl;
+	cout << "Capacity(): " << conus.Capacity() << endl;
 	cout << "Area(): " << conus.Area() << endl;
 
 	conus.SetHeight(8.3);
@@ -20,7 +20,7 @@ int main()
 	cout << "GetHeight(): " << conus.GetHeight() << endl;
 	cout << "GetRadius(): " << conus.GetRadius() << endl;
 
-	cout << "Capacity(): " << conus.Ñapacity() << endl;
+	cout << "Capacity(): " << conus.Capacity() << endl;
 	cout << "Area(): " << conus.Area() << endl;
 
 	system("pause");

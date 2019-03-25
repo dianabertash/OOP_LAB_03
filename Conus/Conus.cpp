@@ -62,7 +62,7 @@ void Conus::SetRadius(double b)
 	}
 }
 
-double Conus::Ñapacity()
+double Conus::Capacity()
 {
 	return (1.0 / 3.0)*M_PI*pow(*this->radius, 2)*(*this->height);
 }
